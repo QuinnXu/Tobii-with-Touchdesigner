@@ -1,0 +1,16 @@
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\obj\Debug\net6.0\tobii_test.csproj.AssemblyReference.cache
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\obj\Debug\net6.0\tobii_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\obj\Debug\net6.0\tobii_test.AssemblyInfoInputs.cache
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\obj\Debug\net6.0\tobii_test.AssemblyInfo.cs
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\obj\Debug\net6.0\tobii_test.csproj.CoreCompileInputs.cache
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\bin\Debug\net6.0\tobii_test.exe
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\bin\Debug\net6.0\tobii\lib\tobii\tobii_stream_engine.dll
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\bin\Debug\net6.0\tobii_test.deps.json
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\bin\Debug\net6.0\tobii_test.runtimeconfig.json
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\bin\Debug\net6.0\tobii_test.dll
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\bin\Debug\net6.0\tobii_test.pdb
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\obj\Debug\net6.0\tobii_test.dll
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\obj\Debug\net6.0\refint\tobii_test.dll
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\obj\Debug\net6.0\tobii_test.pdb
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\obj\Debug\net6.0\tobii_test.genruntimeconfig.cache
+C:\Users\Zheran\source\repos\tobii_test\tobii_test\obj\Debug\net6.0\ref\tobii_test.dll
